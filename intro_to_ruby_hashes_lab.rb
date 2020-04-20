@@ -5,7 +5,7 @@ end
 
 def actor
   actor = {
-      "name" => "Dwayne the Rock Johnson"
+      :name => {"name" => "Dwayne the Rock Johnson"}
   }
 end
 
