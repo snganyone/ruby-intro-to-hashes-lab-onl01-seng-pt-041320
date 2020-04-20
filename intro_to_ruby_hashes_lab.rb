@@ -5,7 +5,9 @@ end
 
 def actor
   actor = {
+    :symbol{
       :name => "Dwayne the Rock Johnson"
+    }
   }
 end
 
